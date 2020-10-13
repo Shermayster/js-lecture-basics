@@ -1,1 +1,33 @@
 # js-lecture-basics
+
+This is topics for the lecture 
+- var vs let vs const
+	- Variable Scope in JavaScript
+- JS type coercion. Basic introduction. Link to more in depth
+	- Converting a value from one type to another is often called "type casting," when done explicitly, and "coercion" when done implicitly (forced by the rules of how a value is used).
+	- JavaScript defines seven built-in types:
+		- null
+		- undefined
+		- boolean
+		- number
+		- string
+		- object
+		- symbol -- added in ES6!
+	- 42 == '42' -> true
+	- 42 === '42' -> false
+	- https://www.udemy.com/course/understand-javascript/learn/lecture/2237496#overview
+	- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Equality_comparisons_and_sameness
+- JS Functions
+	- scope variable 
+	- can accept unlimited number of arguments
+	- hoisting
+	- Future learning more advance topic:
+		- closures
+		- functional programming in JS
+- JS OOP:
+	- ES 6 Classes
+	- How to create new object
+	- prototype and __proto__
+	- Future learning more advance topic::
+		- Hard parts
+-  dynamics types, closures(FP) and async programming(promise)
